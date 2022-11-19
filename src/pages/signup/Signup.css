@@ -1,0 +1,37 @@
+.signup__form{
+    max-width: 360px;
+    margin: 60px auto;
+    padding: 20px;
+}
+
+.signup__form label{
+    display:block;
+    margin: 30px auto;
+}
+
+.signup__form span{
+    display: block;
+    margin-bottom: 6px;
+}
+
+.signup__form input{
+    padding: 8px 6px;
+    font-size: 1em;
+    color: #777;
+    width: 100%;
+}
+
+.btn{
+    background: none;
+    border: 2px solid steelblue;
+    padding:6px 12px;
+    color:  rgb(60, 60, 109);
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.btn:hover{
+    background-color: rgb(60, 60, 109);
+    color: #fff;
+}
