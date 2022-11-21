@@ -1,1 +1,1 @@
-# simple expense tracker, that tracks users expenses.
+ simple expense tracker, that tracks users expenses.
